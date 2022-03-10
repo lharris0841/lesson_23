@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+  <head>
+	
+
+  <meta charset="UTF-8">
+  <!-- TemplateBeginEditable name="doctitle" -->
+  <title>Through My Lense</title>
+  <!-- TemplateEndEditable -->
+  <link href="../styles.css" rel="stylesheet" type="text/css">
+  
+  </head>
+    
+  <body>
+  <div id="container">
+    <header></header>
+<nav>
+    <ul>
+		  
+		  <link href="../styles.css" rel="stylesheet" type="text/css">
+  		  <link rel="stylesheet" href="https://use.typekit.net/wbr3asw.css">
+  		  <link rel="stylesheet" href="https://use.typekit.net/wbr3asw.css">
+  		  <link rel="stylesheet" href="https://use.typekit.net/wbr3asw.css">
+		 <!-- TemplateBeginEditable name="head" -->
+  	  	  <style type="text/css">
+		  </style>
+		 
+  <!-- TemplateEndEditable -->
+	      <li><a href="blog_2.html">Blog</a></li>
+		  <li><a href="blog-1.html">About</a></li>
+		  <li><a href="gallery.html">Gallery</a></li>
+		  <li><a href="contact.html">Contact</a></li>
+		  
+		  
+	  </ul>
+	  </nav>
+	  
+    <!--Begin floated elements-->
+    <aside>
+      <h3>I'm a male, a son, a husband, a professor, a web developer, and a designer, who also doesn't wear glasses.</h3>
+      <h3>Join me as I examine life through all of my various lenses.</h3>
+      <h3>by Luke Harris </h3>
+    </aside>
+    <!-- TemplateBeginEditable name="main-content" -->
+    <main>
+      <h1>Page Title</h1>
+    </main>
+    <!-- TemplateEndEditable -->    <!--End floated elements-->
+    <footer></footer>
+  </div>
+</body>
+</html>
